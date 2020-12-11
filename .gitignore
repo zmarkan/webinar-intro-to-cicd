@@ -62,6 +62,7 @@ typings/
 
 # ignore test results
 test-results/
+test-results.**
 
 #Terraform Ignore file
 *.dll
